@@ -50,6 +50,7 @@ A browser-based multiplayer game featuring:
 
 - GitHub: [@wordword12345x-code](https://github.com/wordword12345x-code)
 - Discord: ._umar_
+
 ---
 
 ⭐ Thanks for visiting my profile!
