@@ -49,8 +49,7 @@ A browser-based multiplayer game featuring:
 ### 🤝 Connect With Me
 
 - GitHub: [@wordword12345x-code](https://github.com/wordword12345x-code)
-- Discord: ._umar_
-
+- Discord: umar399
 ---
 
 ⭐ Thanks for visiting my profile!
