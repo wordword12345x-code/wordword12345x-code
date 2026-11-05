@@ -1,5 +1,3 @@
-# Hi, I'm Umar 👋
-
 ### Full-Stack Web Developer
 
 I build interactive web experiences and enjoy turning ideas into functional, user-friendly applications.
